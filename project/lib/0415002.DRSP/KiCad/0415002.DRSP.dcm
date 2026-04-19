@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0415002.DRSP
+D NANO2 > 277 V > 15mm x 5mm Sq. > Time Lag
+K
+F https://www.littelfuse.com/assetdocs/littelfuse-fuse-nano-415sp-datasheet-final?assetguid=b78402d8-903c-4579-afe2-2d0239b305c4
+$ENDCMP
+#
+#End Doc Library

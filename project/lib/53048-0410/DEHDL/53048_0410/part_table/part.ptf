@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '53048_0410'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "53048-0410" (!) = "", "530480410", "Other", "538-53048-0410", "https://www.mouser.co.uk/ProductDetail/Molex/53048-0410?qs=359VwiUTsp2msj5Tobchuw%3D%3D", "Headers & Wire Housings RIGHT ANGLE HDR 4P", "https://www.molex.com/pdm_docs/sd/530480410_sd.pdf", "3.7 mm"
+END_PART
+
+END.

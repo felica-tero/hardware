@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1913304"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-08-10:23:43)
+    (utime 2024-06-05-11:30:19)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CDBQR42")
+)
+
+
+(pinAssign "ECS_1913304"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-08-10:23:43)
+    (utime 2024-06-05-11:30:19)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1913304")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CDBQR42")
+)
+
+
+(part "CDBQR42"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-08-10:23:43)
+    (utime 2024-06-05-11:30:19)
+    (packageRef "CDBQR42")
+    (pinAssignRef "ECS_1913304")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Schottky Diodes & Rectifiers 200mA 30V DFN Sm. Sgnl. Schottky")
+    (property "Mouser_Part_Number" "750-CDBQR42")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBQR42?qs=tw%252BuQ%2FB6PO2J71PLqQTLpQ%3D%3D")
+    (property "Manufacturer_Name" "Comchip Technology")
+    (property "Manufacturer_Part_Number" "CDBQR42")
+    (property "Datasheet_Link" "https://www.comchiptech.com/admin/files/product/QW-G1101-CDBQR42-43-HF-RevA411201.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

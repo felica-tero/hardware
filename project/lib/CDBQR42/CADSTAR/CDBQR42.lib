@@ -1,0 +1,16 @@
+.CDBQR42 :1 ;Schottky Diodes & Rectifiers 200mA 30V DFN Sm. Sgnl. Schottky
+CDBQR42
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CDBQR42
+~!Mouser Part Number (750-CDBQR42)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBQR42?qs=tw%252BuQ%2FB6PO2J71PLqQTLpQ%3D%3D)
+~!Manufacturer_Name (Comchip Technology)
+~!Manufacturer_Part_Number (CDBQR42)
+~!Link Datasheet (https://www.comchiptech.com/admin/files/product/QW-G1101-CDBQR42-43-HF-RevA411201.pdf)
+~!Height (0.55mm)
+~!3D_Model (CDBQR42)
+CDBQR42
+1.1!U 2.1!U 

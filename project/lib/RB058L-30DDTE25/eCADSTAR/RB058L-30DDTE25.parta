@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19691766"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-11-21-09:26:14)
+    (utime 2024-11-21-09:26:14)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RB058L-30DDTE25")
+)
+
+
+(pinAssign "ECS_19691766"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-11-21-09:26:14)
+    (utime 2024-11-21-09:26:14)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19691766")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RB058L-30DDTE25")
+)
+
+
+(part "RB058L-30DDTE25"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-11-21-09:26:14)
+    (utime 2024-11-21-09:26:14)
+    (packageRef "RB058L-30DDTE25")
+    (pinAssignRef "ECS_19691766")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Features Inner Circuit High reliability Small power mold type Super low IR")
+    (property "Mouser_Part_Number" "755-RB058L-30DDTE25")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RB058L-30DDTE25?qs=4v%252BiZTmLVHH4qQzteWzq7g%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "RB058L-30DDTE25")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 2.2)
+)
+
+

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RB058L_30DDTE25'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "RB058L-30DDTE25" (!) = "", "DIOM5026X220N", "Diodes Moulded", "755-RB058L-30DDTE25", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RB058L-30DDTE25?qs=4v%252BiZTmLVHH4qQzteWzq7g%3D%3D", "Features Inner Circuit High reliability Small power mold type Super low IR", "", "2.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_20702707"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-05-22-10:12:34)
+    (utime 2025-07-20-15:34:13)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "0415002_DRSP")
+)
+
+
+(pinAssign "ECS_20702707"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-05-22-10:12:34)
+    (utime 2025-07-20-15:34:13)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20702707")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "0415002_DRSP")
+)
+
+
+(part "0415002_DRSP"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-05-22-10:12:34)
+    (utime 2025-07-20-15:34:13)
+    (packageRef "0415002_DRSP")
+    (pinAssignRef "ECS_20702707")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "NANO2 > 277 V > 15mm x 5mm Sq. > Time Lag")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "LITTELFUSE")
+    (property "Manufacturer_Part_Number" "0415002.DRSP")
+    (property "Datasheet_Link" "https://www.littelfuse.com/assetdocs/littelfuse-fuse-nano-415sp-datasheet-final?assetguid=b78402d8-903c-4579-afe2-2d0239b305c4")
+)
+
+

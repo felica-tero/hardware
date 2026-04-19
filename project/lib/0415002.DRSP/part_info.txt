@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=0415002.DRSP
+PartCategory=Fuse
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2025-05-22 10:12:34
+Downloaded=2025-11-08 21:53:35
+3D=Y

@@ -1,0 +1,16 @@
+.0415002.DRSP :1 ;NANO2 > 277 V > 15mm x 5mm Sq. > Time Lag
+"0415063DRSP"
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 0415002.DRSP
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (0415002.DRSP)
+~!Link Datasheet (https://www.littelfuse.com/assetdocs/littelfuse-fuse-nano-415sp-datasheet-final?assetguid=b78402d8-903c-4579-afe2-2d0239b305c4)
+~!Height (-)
+~!3D_Model (0415002.DRSP)
+"0415002.DRSP"
+1.1!U 2.1!U 

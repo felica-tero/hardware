@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "0415002_DRSP"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-07-20-15:33:23)
+    (mountForm default
+        (footprintRef "0415063DRSP")
+        (spec "System")
+    )
+)

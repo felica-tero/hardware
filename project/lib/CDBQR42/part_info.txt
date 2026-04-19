@@ -1,0 +1,9 @@
+Manufacturer=Comchip Technology
+PartNumber=CDBQR42
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2023-08-08 10:23:43
+Downloaded=2025-11-07 03:40:53
+3D=Y

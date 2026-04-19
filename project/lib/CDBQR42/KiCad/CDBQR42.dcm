@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDBQR42
+D Schottky Diodes & Rectifiers 200mA 30V DFN Sm. Sgnl. Schottky
+K
+F https://www.comchiptech.com/admin/files/product/QW-G1101-CDBQR42-43-HF-RevA411201.pdf
+$ENDCMP
+#
+#End Doc Library

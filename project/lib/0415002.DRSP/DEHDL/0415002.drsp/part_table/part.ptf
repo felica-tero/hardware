@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0415002.DRSP'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "LITTELFUSE", "0415002.DRSP" (!) = "", "0415063DRSP", "Other", "", "", "NANO2 > 277 V > 15mm x 5mm Sq. > Time Lag", "https://www.littelfuse.com/assetdocs/littelfuse-fuse-nano-415sp-datasheet-final?assetguid=b78402d8-903c-4579-afe2-2d0239b305c4"
+END_PART
+
+END.

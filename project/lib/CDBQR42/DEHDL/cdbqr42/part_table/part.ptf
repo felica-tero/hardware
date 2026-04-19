@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDBQR42'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Comchip Technology", "CDBQR42" (!) = "", "CDBQR42", "Other", "750-CDBQR42", "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBQR42?qs=tw%252BuQ%2FB6PO2J71PLqQTLpQ%3D%3D", "Schottky Diodes & Rectifiers 200mA 30V DFN Sm. Sgnl. Schottky", "https://www.comchiptech.com/admin/files/product/QW-G1101-CDBQR42-43-HF-RevA411201.pdf", "0.55 mm"
+END_PART
+
+END.

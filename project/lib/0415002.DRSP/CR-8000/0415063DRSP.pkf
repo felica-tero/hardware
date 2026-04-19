@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "0415063DRSP"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "0415063DRSP")
+        (spec "default")
+    )
+)
